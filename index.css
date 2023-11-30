@@ -1,0 +1,200 @@
+span{
+    color: brown;
+}
+
+.elen img{
+    width: 250px;
+}
+
+.elen img:hover{
+    width: 260px;
+}
+
+@media(max-width: 576px) {
+    .click{
+        margin-top: -15% !important;
+    }
+}
+
+@media (max-width: 576px) {
+    .hometxt{
+        text-align: center;
+        padding: 0 !important;
+        margin-top: 5rem !important;
+    }
+    .homeimg{
+        margin: 0 !important;
+        padding-top: 7rem !important;
+    }
+}
+
+@media (max-width: 576px) {
+    .guhit{
+        margin-top: -7rem !important;
+        margin-left: 15rem !important;
+    }
+}
+
+@media(max-width: 576px) {
+    .tian{
+        margin-top: -4rem !important;
+        margin-left: 21rem !important;
+    }
+}
+
+@media(max-width: 576px) {
+    .nnn{
+        width: 36rem !important;
+        margin-top: 8rem !important;
+    }
+}
+
+@media(max-width: 576px) {
+    .ccv{
+        width: 30rem !important;
+        margin-left: -9rem !important;
+        font-size: 1.5rem !important;
+        margin-top: 25rem !important;
+    }
+}
+
+@media(max-width: 576px) {
+    .ella{
+        width: 300% !important;
+        font-size: 25px !important;
+        margin-left: 2rem;
+    }
+}
+
+@media(max-width: 576px) {
+    .vivo{
+        width: 200% !important;
+        margin-left: rem !important;
+    }
+}
+
+@media(max-width: 576px) {
+    .maynila{
+        width: 300% !important;
+    }
+}
+
+@media(max-width: 576px) {
+    .jn{
+        height: 370px !important;
+        margin-left: -24rem !important;
+        margin-top: 22rem !important;
+        
+    }
+}
+
+@media(max-width: 576px) {
+    .jekjek{
+        margin-left: -12rem;
+        width: 35rem !important;
+        margin-top: 1rem !important;
+    }
+}
+
+@media(max-width: 576px) {
+    .sumipo{
+        margin-top: 30rem !important;
+    }
+}
+
+@media(max-width: 576px) {
+    .errol{
+        width: 330% !important;
+    }
+}
+
+@media(max-width: 576px) {
+    .harold{
+        height: 370px !important;
+        margin-left: -24rem !important;
+        margin-top: 20rem !important;
+    }
+}
+
+@media(max-width: 576px) {
+    .tatay{
+        margin-left: -12rem;
+        width: 35rem !important;
+        margin-top: 48rem !important;
+    }
+}
+
+@media(max-width: 576px) {
+    .negra{
+        margin-top: 31rem !important;
+    }
+}
+
+@media(max-width: 576px) {
+    .dulo{
+        width: 330% !important;
+    }
+}
+
+@media(max-width: 576px) {
+    .mj{
+        height: 370px !important;
+        margin-left: -24rem !important;
+        margin-top: 22rem !important;
+    }
+}
+
+@media(max-width: 576px) {
+    .butchoy{
+        margin-left: -12rem;
+        width: 35rem !important;
+        margin-top: 43rem !important;
+    }
+}
+
+@media(max-width: 576px) {
+    .hiroto{
+        margin-top: 107rem !important;
+        width: 37rem !important;
+    }
+} 
+
+@media(max-width: 576px) {
+    .cis{
+        margin-top: 20rem !important;
+        width: 37rem !important;
+
+    }
+}
+
+@media(max-width: 576px) {
+    .joven{
+        margin-top: 110rem !important;
+    }
+}
+
+@media(max-width: 576px) {
+    .tnc{
+        margin-top: -18.3rem !important;
+    }
+}
+
+@media(max-width: 576px) {
+    .cityhomes{
+        margin-top: 110rem !important;
+    }
+}
+
+@media(max-width: 576px) {
+    .etong{
+        margin-top: 65rem !important;
+        margin-left: 2.6rem !important;
+    }
+}
+
+@media(max-width: 576px) {
+    .ok{
+        font-size: 12px;
+        margin-left: -3.5rem !important;
+    }
+}
